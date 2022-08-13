@@ -11343,6 +11343,7 @@ background: #246174;
 .main-block {
 flex-direction: row;
 }
+  }
 .left-part, form {
 width: 50%;
         }
@@ -11509,6 +11510,7 @@ footer.footer .social-link:hover {
   background-size: cover;
 }
 .masthead h1, .masthead .h1 {
+  font-size: 4rem;
   margin: 0;
   padding: 0;
 }
