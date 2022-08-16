@@ -1,0 +1,19 @@
+{
+  "name": "joan-portfolio-",
+  "version": "1.0.0",
+  "description": "My portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzjoan/Joan-Portfolio-.git"
+  },
+  "author": "Joan B Akele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzjoan/Joan-Portfolio-/issues"
+  },
+  "homepage": "https://github.com/mzjoan/Joan-Portfolio-#readme"
+}
