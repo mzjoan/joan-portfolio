@@ -1,0 +1,11 @@
+{
+  "name": "joan-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Joan",
+  "license": "ISC"
+}
