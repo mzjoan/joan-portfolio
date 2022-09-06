@@ -4,8 +4,16 @@
   "description": "A portfolio",
   "main": "script.js",
   "scripts": {
-    "test": "start"
+    "start": "index.html"
   },
   "author": "Joan",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzjoan/joan-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mzjoan/joan-portfolio/issues"
+  },
+  "homepage": "https://github.com/mzjoan/joan-portfolio#readme"
 }
