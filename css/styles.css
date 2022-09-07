@@ -130,6 +130,10 @@ h2, .h2 {
   }
 }
 
+.h2w {
+  color: #fff;
+}
+
 h3, .h3 {
   font-size: calc(1.3rem + 0.6vw);
 }
